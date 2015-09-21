@@ -1,0 +1,13 @@
+body {
+  background-color: #ddd
+}
+header {
+  background-image: url("bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+#logo {
+  padding: 20px 0;
+  text-align: center;
+}
